@@ -1,6 +1,7 @@
 # pakistan-real-estate-eda
 Exploratory data analysis of Pakistan's real estate listings to uncover price drivers and investment opportunities.
 
+
 ## 📌 Project Overview
 This project analyzes property listings from [Zameen.com](https://www.zameen.com) to uncover key trends in the Pakistani real estate market.  
 The analysis focuses on **price drivers, city-wise performance, property types, and investment opportunities** for stakeholders such as real estate investors, developers, and policy makers.
