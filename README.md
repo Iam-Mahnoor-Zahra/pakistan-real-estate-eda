@@ -12,11 +12,11 @@ The study is implemented in a **Google Colab notebook** and is fully reproducibl
 ## 📂 Repository Structure
 pakistan-real-estate-eda/
 │
-├── README.md          # Project summary
-├── report.pdf         # Full detailed EDA report
-├── notebook.ipynb     # EDA code
-├── data.csv           # Dataset 
-└── requirements.txt   # Python dependencies
+├── README.md                                 # Project summary
+├── report.pdf                                # Full detailed EDA report
+├── notebook.ipynb                            # EDA code
+├── Scraped Zameen.com - dataset.csv          # Dataset 
+└── requirements.txt                          # Python dependencies
 
 
 ---
