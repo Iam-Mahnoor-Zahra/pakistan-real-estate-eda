@@ -15,7 +15,7 @@ pakistan-real-estate-eda/
 ├── README.md          # Project summary
 ├── report.pdf         # Full detailed EDA report
 ├── notebook.ipynb     # EDA code
-├── data.csv           # Cleaned dataset (if shareable)
+├── data.csv           # Dataset 
 └── requirements.txt   # Python dependencies
 
 
